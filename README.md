@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning advanced concepts in Javascript
 - 👯 I’m looking to collaborate on exciting projects that leverage on modern technologies and drive a positive impact
 - 💬 Ask me about #figma #react #design
-- 📫 How to reach me: Shoot me a dm on [twiter](https://twitter.com/okraks)
+- 📫 How to reach me: Shoot me a dm on [twitter](https://twitter.com/okraks)
 - ⚡ Fun fact: I play word games when stressed to cool off
 
 
