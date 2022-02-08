@@ -1,6 +1,6 @@
 
  # 👋 Okraks here!
- ### Front End Developer | UI Designer
+ ### Front End Developer | Product Designer
  I'm a frontend developer with the heart of a designer.
 
 - 🌱 I’m currently learning advanced concepts in Javascript
