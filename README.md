@@ -18,11 +18,21 @@ I'm a result-oriented software engineer with the heart of a designer who is pass
   <img src="https://img.shields.io/badge/figma-323330?style=for-the-badge&logo=figma&logoColor=#440135"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div> -->
-<!--
+<!-- 
 ## 📈 Most Used Languages
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=okraks&show_icons=true&locale=en&layout=compact" alt="okraks" /></p> -->
 
 ## 👨🏾‍💻 Coding Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okraks&" alt="okraks" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okraks&" alt="okraks" /></p> -->
+
+
+<p align="left">
+    <a href="https://github.com/RianIslam/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Okraks' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=okraks&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+
+
