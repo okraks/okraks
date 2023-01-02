@@ -1,6 +1,6 @@
 # 👋 Isaac Antwi here!
 
-## 👨🏾‍💻 Front End Developer
+## 👨🏾‍💻 Sofware Engineer
 
 I'm a result-oriented software engineer with the heart of a designer who is passionate about impacting the world through solving problems and creating high-end digital products.
 
