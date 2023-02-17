@@ -1,6 +1,6 @@
 # 👋 Isaac Antwi here!
 
-## 👨🏾‍💻 Sofware Engineer |  <a href="https://okraks.fyi/">🌍 Portfolio</a> •
+## 👨🏾‍💻 Sofware Engineer |  <a href="https://okraks.fyi/">🌍 Portfolio</a> 
 
 I'm a result-oriented software engineer with the heart of a designer who is passionate about impacting the world through solving problems and creating high-end digital products.
 
