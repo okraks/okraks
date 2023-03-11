@@ -5,7 +5,7 @@
 I'm a result-oriented software engineer with the heart of a designer who is passionate about impacting the world through solving problems and creating high-end digital products.
 
 - 👯 I’m looking to collaborate on exciting projects that solve interesting problems with tech
-- ⚡ Fun fact: I love to design brand identities and user interfaces when I'm not coding
+- ⚡ Fun fact: I love to design brand identities and user interfaces when I'm not coding <a target="_blank" href="https://www.behance.net/okraks">👨🏾‍🎨 See design portfolio</a> 
 
 ## 💻 Technologies
 -  I work with React, NextJS, Firebase and NodeJS
