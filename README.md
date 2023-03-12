@@ -1,11 +1,11 @@
 # 👋 Isaac Antwi here!
 
-## 👨🏾‍💻 Software Engineer |  <a target="_blank" href="https://okraks.fyi/">🌍 Portfolio</a> 
+## 👨🏾‍💻 Software Engineer |  <a target="_blank" href="https://okraks.fyi/"> 🌍 Portfolio</a> 
 
 I'm a result-oriented software engineer with the heart of a designer who is passionate about impacting the world through solving problems and creating high-end digital products.
 
 - 👯 I’m looking to collaborate on exciting projects that solve interesting problems with tech
-- ⚡ Fun fact: I love to design brand identities and user interfaces when I'm not coding <a target="_blank" href="https://www.behance.net/okraks">👨🏾‍🎨 See design portfolio</a> 
+- ⚡ Fun fact: I love to design brand identities (<a target="_blank" href="https://www.behance.net/okraks">See here</a>↗) and user interfaces (<a target="_blank" href="https://dribbble.com/okraks">See here</a>↗) when I'm not coding
 
 ## 💻 Technologies
 -  I work with React, NextJS, Firebase and NodeJS
