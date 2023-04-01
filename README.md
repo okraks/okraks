@@ -20,7 +20,7 @@ I'm a result-oriented software engineer with the heart of a designer who is pass
 <!-- 
 ## 📈 Most Used Languages
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=okraks&show_icons=true&locale=en&layout=compact" alt="okraks" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=okraks&show_icons=true&locale=en&layout=compact" alt="Okraks' Github Stats" /></p> -->
 
 ## 👨🏾‍💻 Coding Streak
 
