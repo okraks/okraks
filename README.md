@@ -17,10 +17,10 @@ I'm a result-oriented software engineer with the heart of a designer who is pass
   <img src="https://img.shields.io/badge/figma-323330?style=for-the-badge&logo=figma&logoColor=#440135"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div> -->
-<!-- 
+
 ## 📈 Most Used Languages
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=okraks&show_icons=true&locale=en&layout=compact" alt="Okraks' Github Stats" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=okraks&show_icons=true&locale=en&layout=compact" alt="Okraks' Github Stats" /></p>
 
 ## 👨🏾‍💻 Coding Streak
 
