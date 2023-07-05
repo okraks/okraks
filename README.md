@@ -12,11 +12,11 @@ I'm a result-oriented software engineer with the heart of a designer who is pass
 -  I'm currently learning advanced concepts in Javascript and Typescript
 
 
-<!-- <div>
+<div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/figma-323330?style=for-the-badge&logo=figma&logoColor=#440135"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div> -->
+</div> 
 
 <!--
 ## 📈 Most Used Languages
