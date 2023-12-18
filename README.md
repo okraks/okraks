@@ -8,7 +8,7 @@ I'm a result-oriented software engineer with the heart of a designer who is pass
 - ⚡ Fun fact: I love to design brand identities (<a target="_blank" rel="noopener noreferrer" href="https://www.behance.net/okraks">See here</a>↗) and user interfaces (<a target="_blank" rel="noopener noreferrer" href="https://dribbble.com/okraks">See here</a>↗) when I'm not coding
 
 ## 💻 Technologies & Languages
--  I work with Javascript, Typescript, React, NextJS and Firebase
+-  I work with Typescript, React, NextJS, Tanstack Query and Firebase
 -  I'm currently learning advanced concepts in Javascript and Typescript
 
 
