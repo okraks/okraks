@@ -4,7 +4,7 @@
 
 I'm a result-oriented software engineer with the heart of a designer who is passionate about impacting the world using technology.
 
-- I’m looking to collaborate on exciting projects that solve interesting problems with modern technology.
+- I’m looking to collaborate on exciting projects that solve interesting problems with technology.
 - Fun fact: I love to design brand identities (<a target="_blank" rel="noopener noreferrer" href="https://www.behance.net/okraks">See here</a>↗) and user interfaces (<a target="_blank" rel="noopener noreferrer" href="https://dribbble.com/okraks">See here</a>↗) when I'm not writing code.
 
 ## 💻 Technologies & Languages
