@@ -9,7 +9,7 @@ I'm a result-oriented software engineer with the heart of a designer who is pass
 
 ## 💻 Technologies & Languages
 -  I work with Typescript, NextJS, MongoDB, NodeJS and Firebase.
--  I'm currently learning advanced concepts in Javascript and Typescript.
+-  I'm currently learning advanced concepts in web development.
 
 
 <div>
