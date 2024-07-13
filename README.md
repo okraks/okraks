@@ -1,4 +1,4 @@
-# 👋 Isaac Antwi here!
+# Isaac Antwi — I build awesome software for people
 
 ## 👨🏾‍💻 Software Engineer |  <a target="_blank" rel="noopener noreferrer" href="https://okraks.fyi/"> 🌍 Portfolio</a> ↗
 
