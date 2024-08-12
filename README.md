@@ -7,6 +7,7 @@ I'm a result-oriented software engineer with the heart of a designer who is pass
 - I’m looking to collaborate on exciting projects that solve interesting problems with technology.
 - Fun fact: I love to design brand identities (<a target="_blank" rel="noopener noreferrer" href="https://www.behance.net/okraks">See here</a>↗) and user interfaces (<a target="_blank" rel="noopener noreferrer" href="https://dribbble.com/okraks">See here</a>↗) when I'm not writing code.
 
+<!--
 ## 💻 Technologies & Languages
 -  I work with Typescript, NextJS, MongoDB, NodeJS and Firebase.
 -  I'm currently learning advanced concepts in web development.
@@ -18,7 +19,7 @@ I'm a result-oriented software engineer with the heart of a designer who is pass
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div> 
 
-<!--
+
 ## 📈 Most Used Languages
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=okraks&show_icons=true&locale=en&layout=compact" alt="Okraks' Github Stats" /></p>
