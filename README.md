@@ -1,6 +1,6 @@
 # Isaac Antwi · I build software for people, and lately the AI inside it.
 
-##👨🏾‍💻 Software & Applied AI Engineer · <a target="_blank" rel="noopener noreferrer" href="https://okraks.fyi/">Portfolio</a> ↗ 
+## 👨🏾‍💻 Software & Applied AI Engineer · <a target="_blank" rel="noopener noreferrer" href="https://okraks.fyi/">Portfolio</a> ↗ 
 
 I build systems for insurance, payments and clinical data, and the AI features inside them: agents that call tools, document classification and RAG-based systems.
 
