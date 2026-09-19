@@ -1,4 +1,4 @@
-# Isaac Antwi · I build software for people, and lately the AI inside it.
+# Isaac Antwi
 
 ## 👨🏾‍💻 Software & Applied AI Engineer · <a target="_blank" rel="noopener noreferrer" href="https://okraks.fyi/">Portfolio</a> ↗ 
 
