@@ -5,11 +5,14 @@
 I build systems for insurance, payments and clinical data, and the AI features inside them: agents that call tools, document classification and RAG-based systems.
 
 #### Open Source
-- [MedMapper](https://github.com/okraks/medmapper): Clinical text to ICD-10 in three stages, dictionary, ScispaCy
-  with UMLS linking, then an LLM only if both miss. Live at [medmapper.isaacantwi.com](https://medmapper.isaacantwi.com)
-- [Latch](https://github.com/okraks/latch): An agent-driven dashboard where the model chooses from a fixed
-  catalog of tools and components. Live at [latch.isaacantwi.com](https://latch.isaacantwi.com)
+- [MedMapper](https://medmapper.isaacantwi.com): Clinical text to ICD-10 in three stages, dictionary, ScispaCy
+  with UMLS linking, then an LLM only if both miss.
+  
+- [Latch](https://latch.isaacantwi.com): An agent-driven dashboard where the model chooses from a fixed
+  catalog of tools and components.
+  
 - [next-route-progress](https://github.com/okraks/next-route-progress): A progress bar for the Next.js App Router. Available on [NPM](https://www.npmjs.com/package/next-route-progress)
+- 
 - [ContourFlow](https://github.com/okraks/contour-flow-vs-code-extension): An opinionated TypeScript formatter, packaged as a [VS Code extension](https://marketplace.visualstudio.com/items?itemName=okraks.contourflow).
 
 
