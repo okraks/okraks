@@ -11,8 +11,8 @@ I build systems for insurance, payments and clinical data, and the AI features i
 - [Latch](https://latch.isaacantwi.com): An agent-driven dashboard where the model chooses from a fixed
   catalog of tools and components.
   
-- [next-route-progress](https://github.com/okraks/next-route-progress): A progress bar for the Next.js App Router. Available on [NPM](https://www.npmjs.com/package/next-route-progress)
-- 
+- [Next-route-progress](https://github.com/okraks/next-route-progress): A progress bar for the Next.js App Router. Available on [NPM](https://www.npmjs.com/package/next-route-progress)
+
 - [ContourFlow](https://github.com/okraks/contour-flow-vs-code-extension): An opinionated TypeScript formatter, packaged as a [VS Code extension](https://marketplace.visualstudio.com/items?itemName=okraks.contourflow).
 
 
